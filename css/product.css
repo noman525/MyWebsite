@@ -103,6 +103,8 @@ body
 			z-index:8;
 			left: 150px;
 			top: 420px;
+			font-size: 25px;
+			color: yellow;
 		}
 
 		#apDiv13 {	position:absolute;
@@ -120,6 +122,8 @@ body
 			z-index:8;
 			left: 600px;
 			top: 420px;
+			color: yellow;
+			font-size: 20px;
 		}
 
 		article{
