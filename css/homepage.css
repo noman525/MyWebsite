@@ -1,4 +1,5 @@
-*{
+*
+{
   margin: 0;
   padding: 0;
   text-decoration: none;
@@ -6,7 +7,8 @@
 
 }
 
-body{
+body
+{
   background: #fcc
 }
 
@@ -38,7 +40,8 @@ body{
 
 
 
-#apDiv1 {
+#apDiv1 
+{
 	position:absolute;
 	width:799px;
 	height:83px;
@@ -46,7 +49,8 @@ body{
 	left: 301px;
 	top: 16px;
 }
-#apDiv2 {
+#apDiv2 
+{
 	position:absolute;
 	width:202px;
 	height:59px;
@@ -55,7 +59,8 @@ body{
 	top: 103px;
 }
 
-#apDiv3 {
+#apDiv3 
+{
 	position:absolute;
 	width:142px;
 	height:55px;
@@ -63,7 +68,8 @@ body{
 	left: 132px;
 	top: 116px;
 }
-#apDiv4 {
+#apDiv4 
+{
 	position:absolute;
 	width:200px;
 	height:59px;
@@ -71,7 +77,8 @@ body{
 	left: 288px;
 	top: 113px;
 }
-#apDiv5 {
+#apDiv5 
+{
 	position:absolute;
 	width:204px;
 	height:58px;
@@ -79,7 +86,8 @@ body{
 	left: 538px;
 	top: 113px;
 }
-#apDiv6 {
+#apDiv6 
+{
 	position:absolute;
 	width:180px;
 	height:60px;
@@ -87,7 +95,8 @@ body{
 	left: 768px;
 	top: 112px;
 }
-#apDiv7 {
+#apDiv7 
+{
 	position:absolute;
 	width:200px;
 	height:59px;
@@ -95,7 +104,8 @@ body{
 	left: 970px;
 	top: 112px;
 }
-#apDiv8 {
+#apDiv8 
+{
 	position:absolute;
 	width:291px;
 	height:141px;
@@ -103,7 +113,8 @@ body{
 	left: 1200px;
 	top: 112px;
 }
-#apDiv9 {
+#apDiv9 
+{
 	position:absolute;
 	width:141px;
 	height:105px;
@@ -111,7 +122,8 @@ body{
 	left: 98px;
 	top: 6px;
 }
-#apDiv10 {
+#apDiv10 
+{
 	position:absolute;
 	width:1123px;
 	height:223px;
@@ -128,7 +140,8 @@ body{
 	color: #FFFFFF;
 	font-size: 30px;
 }
-#apDiv11 {
+#apDiv11 
+{
 	position:absolute;
 	width:527px;
 	height:295px;
@@ -136,7 +149,8 @@ body{
 	left: -26px;
 	top: 313px;
 }
-#apDiv12 {
+#apDiv12
+ {
 	position:absolute;
 	width:552px;
 	height:58px;
@@ -150,6 +164,7 @@ body{
 	top: 250px;
 	position: absolute;
 }
-.style5 {
+.style5 
+{
 	color: #990000
 }
