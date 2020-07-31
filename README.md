@@ -15,5 +15,10 @@ A website about cars and what is available to purchase for customers. This is ma
 
 * This page is for customers to have a look at the different cars that are on for sale. Also they can make direct purchases via PayPal if they so desire. Once purchases are complete the company will get in touch with the customer and deal with getting the car delivered. 
 
+# Product Page
+
+* This page is about the different types of products that are being sold. This is mainly car parts that are being sold for customers. On the previous page it was about cars being sold whilst on this page it is to do with the different parts that a car has.
+
+
 
 
