@@ -6,16 +6,9 @@
 		left: 291px;
 		top: 10px;
 	}
-	#apDiv2 {
-		position:absolute;
-		width:202px;
-		height:59px;
-		z-index:2;
-		left: 49px;
-		top: 103px;
-	}
+	
 	body {
-		background-image: url(image/a427c01579e0091d26dd9890eee3549b%20wallpaper.jpg);
+		background-image: url("../images/a427c01579e0091d26dd9890eee3549b%20wallpaper.jpg");
 	}
 	#apDiv3 {
 		position:absolute;
@@ -210,14 +203,7 @@
 				left: 800px;
 				top: 250px;
 			}
-			#apDiv25 {
-				position:absolute;
-				width: 100px;
-				height:55px;
-				z-index:14;
-				left: 100px;
-				top: 550px;
-			}
+			
 			.style7 {font-size: 18px}
 			.style8 {font-size: 18}
 			.style9 {font-size: 16px}
