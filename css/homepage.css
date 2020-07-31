@@ -119,12 +119,14 @@ body{
 	left: 95px;
 	top: 214px;
 }
-.style2 {
-	color: #FFFFFF
+.style2 
+{
+	color: #FFFFFF;
+	font-size: 25px;
 }
 .style3 {
 	color: #FFFFFF;
-	font-size: 24px;
+	font-size: 30px;
 }
 #apDiv11 {
 	position:absolute;
@@ -142,7 +144,12 @@ body{
 	left: 59px;
 	top: 449px;
 }
-.style4 {font-size: 24px}
+.style4 
+{
+	font-size: 24px;
+	top: 250px;
+	position: absolute;
+}
 .style5 {
 	color: #990000
 }
