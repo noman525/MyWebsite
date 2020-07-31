@@ -113,16 +113,26 @@
 				top: 242px;
 			}
 			.style4 {font-size: 24px}
-			.style5 {font-size: 24px; color: #CCCCCC; }
+			.style5 
+			{
+				font-size: 25px; 
+				color: Yellow;
+				
+			}
 			#apDiv14 {
 				position:absolute;
 				width:362px;
 				height:178px;
 				z-index:7;
 				left: 50px;
-				top: 290px;
+				top: 350px;
+				
 			}
-			.style6 {color: #CCCCCC}
+			.style6 
+			{
+				color: yellow;
+				font-size: 30px;
+			}
 			
 			
 			#apDiv17 {
@@ -130,16 +140,16 @@
 				width:162px;
 				height:30px;
 				z-index:10;
-				left: 19px;
-				top: 242px;
+				left: 145px;
+				top: 300px;
 			}
 			#apDiv18 {
 				position:absolute;
 				width:201px;
 				height:132px;
 				z-index:11;
-				left: 1101px;
-				top: -14px;
+				right: 300px;
+				top: 100px;
 			}
 			#apDiv19 {
 				position:absolute;
@@ -186,8 +196,8 @@
 				width: 100px;
 				height:55px;
 				z-index:14;
-				left: 800px;
-				top: 250px;
+				left: 1020px;
+				top: 280px;
 			}
 			
 			
