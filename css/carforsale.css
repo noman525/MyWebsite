@@ -211,8 +211,8 @@ body
 			width:75px;
 			height:40px;
 			z-index:8;
-			left: 147px;
-			top: 190px;
+			left: 127px;
+			top: 210px;
 		}
 		#apDiv20 
 		{
@@ -260,8 +260,8 @@ body
 			width:65px;
 			height:42px;
 			z-index:13;
-			left: 152px;
-			top: 189px;
+			left: 125px;
+			top: 215px;
 		}
 		#apDiv24 
 		{	position:absolute;
@@ -277,8 +277,8 @@ body
 			width:64px;
 			height:43px;
 			z-index:9;
-			left: 153px;
-			top: 189px;
+			left: 133px;
+			top: 210px;
 		}
 		.style7 
 		{
@@ -304,8 +304,8 @@ body
 			width:200px;
 			height:49px;
 			z-index:13;
-			left: 392px;
-			top: -725px;
+			left: 130px;
+			top: 180px;
 		}
 		
 #apDiv28
@@ -318,4 +318,8 @@ body
 	top: 761px;
 }
 .style13 {color: #FFFF00; }
-.style14 {color: #FFFF00; }
+.style14 
+{
+	color: #FFFF00; 
+
+}
