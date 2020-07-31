@@ -20,6 +20,7 @@ body
 		font-family: 'lucida grande' , tahona, vandana arian, sans-serif;
 		width:99%;
 		margin:auto;
+		background: #ccf;
 
 	}
 }
@@ -27,8 +28,8 @@ body
 {
   body
   {
-    background: #ccf;
-	background-image: url("../images/background.png");
+    
+	background-image: url("../images/indexbackground.jpg");
    
 
   };
@@ -133,12 +134,17 @@ body
 }
 .style2 
 {
-	color: #FFFFFF;
-	font-size: 25px;
+	color: Yellow;
+	font-size: 29px;
+	left: 25%;
+	position: absolute;
+	top: 10%;
 }
 .style3 {
-	color: #FFFFFF;
+	color: yellow;
 	font-size: 30px;
+	left: 42%;
+	position: absolute;
 }
 #apDiv11 
 {
@@ -166,5 +172,9 @@ body
 }
 .style5 
 {
-	color: #990000
+	color: yellow;
+	top: 120px;
+	position: relative;
+
+	
 }

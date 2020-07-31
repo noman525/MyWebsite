@@ -1,3 +1,36 @@
+body
+{
+  background: #fcc
+}
+
+@media screen and (min-width: 500px)
+{
+
+  body
+	{
+		font-family: 'lucida grande' , tahona, vandana arian, sans-serif;
+		width:99%;
+		margin:auto;
+		background: #ccf;
+
+	}
+}
+@media screen and (min-width: 1000px)
+{
+  body
+  {
+    
+	background-image: url("../images/lamborghini-aventador-lp700-4-wallpaper.jpg");
+   
+
+  };
+
+
+
+}
+
+
+
 #apDiv1
  {
 	position:absolute;
@@ -18,10 +51,7 @@
 	top: 435px;
 }
 		
-body
-{
-	background-image: url("../images/lamborghini-aventador-lp700-4-wallpaper.jpg");
-}
+
 		
 #apDiv3
 {
