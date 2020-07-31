@@ -11,6 +11,9 @@ A website about cars and what is available to purchase for customers. This is ma
 
 * The homepage has information about what the website is about and what it is selling. Also if there are any special offers they will appear on this page for advertisement purposes
 
+# Cars for sale
+
+* This page is for customers to have a look at the different cars that are on for sale. Also they can make direct purchases via PayPal if they so desire. Once purchases are complete the company will get in touch with the customer and deal with getting the car delivered. 
 
 
 
