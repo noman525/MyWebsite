@@ -19,6 +19,19 @@ A website about cars and what is available to purchase for customers. This is ma
 
 * This page is about the different types of products that are being sold. This is mainly car parts that are being sold for customers. On the previous page it was about cars being sold whilst on this page it is to do with the different parts that a car has.
 
+# Video Page
+
+* This page is about vidoes of the different cars that are available and a little information on the cars for customers to watch before they do any purchases 
+
+
+# Contact us Page 
+
+* This page is for customers to contact the company for if they require any information. Also there is information of where the company is located along with a contact form for the customers to send a request and then the company will get back to them as soon as they get the email.
+
+
+
+  
+
 
 
 
