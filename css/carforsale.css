@@ -307,6 +307,7 @@ body
 			left: 130px;
 			top: 180px;
 		}
+	
 		
 #apDiv28
 {
@@ -316,6 +317,28 @@ body
 	z-index:13;
 	left: 924px;
 	top: 761px;
+}
+
+#apDiv29
+{
+	position:absolute;
+	top:485px;
+	left: 1060px;
+}
+
+#apDiv30
+{
+	position:absolute;
+	top:735px;
+	left: 1060px;
+}
+
+
+#apDiv31
+{
+	position:absolute;
+	top:1050px;
+	left: 1050px;
 }
 .style13 {color: #FFFF00; }
 .style14 
