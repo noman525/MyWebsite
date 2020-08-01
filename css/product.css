@@ -156,7 +156,22 @@ body
 			color: yellow;
 			font-size: 20px;
 		}
-
+		
+		#apDiv15
+		{
+			position: absolute;
+			top: 820px;
+			left: 140px;
+			
+		}
+		
+		#apDiv16
+		{
+			position: absolute;
+			top: 870px;
+			left: 590px;
+			
+		}
 		article{
 			margin-left: 50px;
 			border-left: 1px black;
